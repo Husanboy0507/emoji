@@ -25,6 +25,11 @@
     border-radius: 30px;
     font-size: 2rem;
     box-shadow: 0 0 9px red;
+    transition: all 0.3s;
+  }
+
+  .emojiItem:hover{
+    transform: scale(1.2);
   }
   p {
     color: black;

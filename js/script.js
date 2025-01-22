@@ -60,3 +60,8 @@ function allEmoji(emoji) {
     card.append(emojiItem);
   });
 }
+
+
+
+
+
